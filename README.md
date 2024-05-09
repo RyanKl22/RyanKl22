@@ -37,14 +37,8 @@
 **Consultor/ABAP** <br/>
 Linguagens & Tecnologias: `ABAP`, `SapScript`, `CPI`, `PI`, `Ui5`, `SmartForms`
 
-
-
 <br/>
 <br/>
-
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanKl22&theme=city_lights&show_icons=true" />
-</a>
 
 ## Onde me encontrar
 
