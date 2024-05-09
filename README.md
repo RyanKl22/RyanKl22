@@ -1,4 +1,7 @@
+
 ### Olá! Eu sou o Ryan Kloss 👽🚀
+
+
 
 ## Sobre mim
 
@@ -26,6 +29,17 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
+
+**Experiência de trabalho**
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOY6TDeqHtKKlcsyyhphB-SrQ0QSjX2stO1rmKX6IFJw&s"/>](https://escotta.com/) 
+
+**Consultor/ABAP** <br/>
+Linguagens & Tecnologias: `ABAP`, `SapScript`, `CPI`, `PI`, `Ui5`, `SmartForms`
+
+
+
+<br/>
 <br/>
 
 <a href="https://github.com/iuricode" title="Perfil do Iuri">
